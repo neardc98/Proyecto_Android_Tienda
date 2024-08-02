@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Gato Negro</string>
+    <string name="enlarged_image">Enlarged Image</string>
+    <string name="select_country">Seleccione un país</string>
+    <string-array name="countries_array">
+        <item>Argentina</item>
+        <item>Bahamas</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bolivia</item>
+        <item>Brasil</item>
+        <item>Canadá</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Dominica</item>
+        <item>Ecuador</item>
+        <item>El Salvador</item>
+        <item>Estados Unidos</item>
+        <item>Granada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Haití</item>
+        <item>Honduras</item>
+        <item>Jamaica</item>
+        <item>México</item>
+        <item>Nicaragua</item>
+        <item>Panamá</item>
+        <item>Paraguay</item>
+        <item>Perú</item>
+        <item>República Dominicana</item>
+        <item>San Cristóbal y Nieves</item>
+        <item>Santa Lucía</item>
+        <item>San Vicente y las Granadinas</item>
+        <item>Surinam</item>
+        <item>Trinidad y Tobago</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+    </string-array>
+    <string name="select_rol">Seleccione un Rol</string>
+    <string-array name="roles_array">
+        <item>Administrador</item>
+        <item>Empleado</item>
+    </string-array>
+</resources>

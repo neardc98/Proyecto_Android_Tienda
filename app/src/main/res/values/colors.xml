@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1F1B24</color> <!-- Un tono oscuro -->
+    <color name="colorPrimaryDark">#121212</color> <!-- Un tono aún más oscuro -->
+    <color name="colorAccent">#BB86FC</color> <!-- Un color púrpura que destaca sobre los tonos oscuros -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#888888</color>
+
+
+    <color name="backgroundColor">#000000</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="hintColor">#888888</color>
+    <color name="buttonColor">#444444</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+
+
+</resources>
